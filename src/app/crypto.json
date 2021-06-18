@@ -1,0 +1,22 @@
+{
+    "crypto": [
+        {
+            "cryptocurrency": "Bitcoin",
+            "price": "$38,072.28",
+            "marketcap": "$713,384,116,517",
+            "24h%": "2.13%"
+        },
+        {
+            "cryptocurrency": "Ethereum",            
+            "price": "$38,072.28",
+            "marketcap": "$713,384,116,517",
+            "24h%": "2.13%"
+        },
+        {
+            "cryptocurrency": "Tether",
+            "price": "$38,072.28",
+            "marketcap": "$713,384,116,517",
+            "24h%": "2.13%"
+        }
+    ]
+}
